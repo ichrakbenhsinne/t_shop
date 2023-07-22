@@ -1,3 +1,5 @@
+
+//to deploy smart contract
 const simpleStorage = artifacts.require('SimpleStorage.sol');
 
 contract('SimpleStorage', () => {
